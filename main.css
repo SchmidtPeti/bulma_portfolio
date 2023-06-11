@@ -1,5 +1,4 @@
-@import "node_modules/bulma/css/bulma.css";
-
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma-rtl.min.css";
 body {
     background-color: #232323; /* Dark grey background */
     color: #ffffff; /* White text */
